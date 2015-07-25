@@ -1,5 +1,6 @@
 # The purpose of the following two functions is to inverse a matrix and cache the inverse matrix, 
-# so inversing the matrix is only required if the matrix changes (new matrix) or the inverse matrix has never been cached
+# so inversing the matrix is only required if the matrix changes (new matrix) or the inverse matrix 
+# has never been cached
 
 # Function 'makeCacheMatrix' does the following:
 # 1. accepts a square invertible matrix (n X n) as the input
